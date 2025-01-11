@@ -1,6 +1,6 @@
 This service asks about your emotions and lets you know who you really are.
 
-# Emotion Reflection App
+# Emotion Alarm
 
 A simple Python-based application that helps users reflect on their emotions, rediscover what they love, and gain self-awareness. The app interacts with users by asking emotion-related questions, storing their responses, and providing insights into their likes, dislikes, and emotional patterns.
 
